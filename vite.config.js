@@ -30,12 +30,13 @@ export default defineConfig({
         'src/stores',
       ],
       vueTemplate: true,
+      dts: false,
     }),
     
     Components({
       extensions: ['vue'],
       include: [/\.vue$/, /\.vue\?vue/],
-      dts: 'src/components.d.ts',
+      dts: false,
     }),
     
     Vue(),

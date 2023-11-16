@@ -12,5 +12,4 @@ export default defineConfig({
       scale: 1.2,
     }),
   ],
-  safelist: 'prose m-auto text-left'.split(' '),
 })
