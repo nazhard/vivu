@@ -1,7 +1,10 @@
 <template>
   <nav mt-6 inline-flex gap-2 text-xl>
+    <RouterLink to="/">
+      <div icon-btn i-carbon-flash-filled />
+    </RouterLink>
     <RouterLink to="/about">
-      <div icon-btn i-carbon-user-avatar-filled></div>
+      <div icon-btn i-carbon:align-box-middle-left />
     </RouterLink>
 
     <a
