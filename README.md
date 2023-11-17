@@ -38,7 +38,7 @@ Minimal template for small projects.
 Clone using `git clone`
 
 ```bash
-git clone https://github.com/nazhard/vivu  your-app-name
+git clone https://github.com/nazhard/vivu.git your-app-name
 cd your-app-name
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 pnpm dev # start dev server
