@@ -1,6 +1,7 @@
 <script setup>
 const router = useRouter()
 const route = useRoute()
+
 let name = route.params.name
 </script>
 

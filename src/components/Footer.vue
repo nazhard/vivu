@@ -6,7 +6,6 @@
     <RouterLink to="/about">
       <div icon-btn i-carbon:align-box-middle-left />
     </RouterLink>
-
     <a
       i-carbon-logo-github icon-btn
       rel="noreferrer"
