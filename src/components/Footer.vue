@@ -6,6 +6,9 @@
     <RouterLink to="/about">
       <div icon-btn i-carbon:align-box-middle-left />
     </RouterLink>
+    <button @click="toggleDark()">
+      <div icon-btn i-carbon-sun dark:i-carbon-moon />
+    </button>
     <a
       i-carbon-logo-github icon-btn
       rel="noreferrer"
