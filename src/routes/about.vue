@@ -8,13 +8,8 @@ import logo from '@/assets/logo.svg'
     <h1 py2>Vue Simple Starter</h1>
     
     <div text-sm op75>
-      <p>Includes :</p>
-      <ul>
-        <li>Vite 4 + Vue 3</li>
-        <li>File based routing</li>
-        <li>Auto import components</li>
-        <li>And moree...</li>
-      </ul>
+      <p>This is a template designed to be as simple as possible
+      with a few core plugins to make the process of developing a simple app easier.</p>
     </div>
     
     <div p7>
